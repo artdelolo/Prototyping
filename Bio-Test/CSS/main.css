@@ -1,0 +1,64 @@
+body{
+  background:magenta;
+  font-family: Monospace;
+
+}
+h1{
+  font-family: 'Fredoka One', cursive;
+  color:white;
+}
+
+  .bob{
+
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    margin-left: 45px;
+    margin-top: 45px;
+    border: 3px solid white;
+
+
+  }
+  .first-div{
+  background: black;
+  font-size: 33px;
+  color: #ffffff;
+  background-image: url("../images/r2dr.jpg");
+  background-size: cover;
+  }
+
+  .first-div:hover {
+
+    background-image: url("../images/LOLO51.jpg");
+  }
+
+
+  .rounded-div{
+
+    border-radius: 15px;
+    background: purple;
+
+    }
+
+    .leftnav{
+
+      list-style: none;
+    }
+
+    .leftnav li {
+      padding: 10px;
+      background: orange;
+      border-bottom: 3px solid black;
+      width: 200px;
+
+
+    }
+
+    .leftnav li:hover {
+      background: aqua;
+      cursor: pointer;
+    }
+
+    .bg-light{
+      background: aqua !important;
+    }

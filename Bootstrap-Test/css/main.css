@@ -1,0 +1,31 @@
+.white{
+  background: white;
+}
+
+.orange{
+  background: orange;
+}
+
+.blue{
+  background: blue;
+}
+
+.purple{
+  background: purple;
+}
+
+h1{
+  font-family: 'Oswald', sans-serif;
+}
+
+.loloheader{
+  color: white;
+}
+
+.margins{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.bg-light{
+  background: purple !important;
+}

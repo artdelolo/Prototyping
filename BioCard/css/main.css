@@ -1,0 +1,97 @@
+.fit {
+   object-fit: fill;
+}
+
+.black{
+  background: black;
+}
+
+.teal{
+  background: SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO;
+}
+.pink{
+  background: pink;
+}
+.white{
+  background: white;
+}
+.blue{
+  background: blue;
+}
+
+.purple{
+  background: purple;
+}
+
+h1{
+  font-family: 'Oswald', sans-serif;
+  vertical-align: middle;
+  font-size: 60;
+}
+
+h3{
+  font-family: 'Oswald', sans-serif;
+  vertical-align: middle;
+  font-size: 30;
+}
+
+
+.loloheader{
+  color: white;
+  vertical-align: middle;
+  font-size: 50px;
+}
+
+.loloheader2{
+  color: white;
+  vertical-align: middle;
+  font-size: 30px;
+}
+
+
+.lolofont{
+  color: white;
+  vertical-align: middle;
+  font-size: 20px;
+}
+
+.lolofont2{
+  color: black;
+  vertical-align: middle;
+  font-size: 20px;
+}
+
+.lolofont3{
+  color: black;
+  vertical-align: middle;
+  font-size: 20px;
+}
+
+.bg-light{
+  background: black !important;
+}
+
+.testimonialText {
+  position: absolute;
+  left: 15px;
+  top: 15px;
+  width: 150px;
+  height: 309px;
+  vertical-align: middle;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
